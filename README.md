@@ -21,25 +21,24 @@
 
 ---
 
-## 💫 About Me (Recruiter-Optimized)
+## 💫 About Me
 
-👨‍💻 I’m **Praveen Devireddy**, a **Computer Science (CSE) student** and  
-**aspiring Software Engineer** with strong foundations in:
+👨‍💻 I’m **Praveen Devireddy**, a **Computer Science (CSE) student** and aspiring Software Engineer with a strong foundation in:
 
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Web Development**
+- **Data Structures & Algorithms**  
+- **Object-Oriented Programming**  
+- **Web Development**  
 - **Machine Learning & AI fundamentals**
 
 🎯 I enjoy solving problems, building projects, and writing **clean, maintainable code**.  
 💼 Actively seeking **internships, research roles, and entry-level software opportunities**.
 
-🎓 **Integrated MSc in Computer Science**  
+🎓 Integrated MSc in Computer Science  
 🌱 Constant learner | Project-driven | Curious by nature
 
 ---
 
-## 🧩 Competitive Programming & Problem Solving
+## 🧩 Coding Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/dpn123">
@@ -58,64 +57,74 @@
 ## 🏆 Coding Platform Stats
 
 ### 🔵 Codeforces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=dpn123&theme=dark" />
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dpn123&theme=dark" />
+</p>
 
 ### 🟡 LeetCode
-<img src="https://leetcode-stats-six.vercel.app/api?username=dpn_123&theme=dark" />
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=dpn_123&theme=dark" />
+</p>
+
+### 🟤 CodeChef
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/devireddy2k3" />
+</p>
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🧱 Programming Languages
-- **C, C++**
-- **Python**
-- **JavaScript**
-- **HTML5, CSS3**
-- **R**
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 
 ---
 
 ### 🌐 Web Development
-- Frontend: **HTML, CSS, JavaScript**
-- Responsive Design
-- Git & GitHub
-- GitHub Pages, Netlify, Vercel
+- Frontend: **HTML, CSS, JavaScript**  
+- Responsive Design  
+- Git & GitHub  
+- GitHub Pages, Netlify, Vercel  
 
 ---
 
-### 🤖 AI / Machine Learning
-- **NumPy, Pandas**
-- **Scikit-learn**
-- **TensorFlow, PyTorch**
-- Data preprocessing & visualization
-- Model training & evaluation
+### 🤖 AI / Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
 ---
 
 ### ☁️ Cloud & Tools
-- AWS
-- Google Cloud
-- Azure
-- GitHub Actions
-- MySQL, PostgreSQL, MongoDB
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📊 GitHub Stats (Auto Light/Dark Mode)
+## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=praveen783&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=praveen783&theme=default" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=praveen783&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=praveen783&theme=default" />
-  </picture>
+  <img src="https://github-readme-streak-stats.demolab.com?user=praveen783&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -123,7 +132,7 @@
 ## 🏅 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveen783&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=praveen783&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
