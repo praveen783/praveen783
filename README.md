@@ -62,9 +62,6 @@
 
   <!-- LeetCode Stats Card -->
   <img src="https://leetcard.jacoblin.cool/dpn_123?theme=dark" alt="LeetCode Stats" />
-
-  <!-- CodeChef Badge (may be intermittent) -->
-  <img src="https://codechef-readme-stats.onrender.com/devireddy2k3?v=1" alt="CodeChef Stats (if available)" />
 </p>
 
 ---
