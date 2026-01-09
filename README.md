@@ -54,17 +54,17 @@
 
 ---
 
-## ⚡ Coding Stats (Problems Solved & Rating)
+## ⚡ Coding Stats (Problems & Rating)
 
 <p align="center">
   <!-- Codeforces Stats Card -->
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dpn123&theme=dark" alt="Codeforces Stats" />
-  
+
   <!-- LeetCode Stats Card -->
   <img src="https://leetcard.jacoblin.cool/dpn_123?theme=dark" alt="LeetCode Stats" />
 
-  <!-- CodeChef Stats Card -->
-  <img src="https://competitive-coding-api.herokuapp.com/api/codechef/devireddy2k3?theme=dark" alt="CodeChef Stats" />
+  <!-- CodeChef Badge (may be intermittent) -->
+  <img src="https://codechef-readme-stats.onrender.com/devireddy2k3?v=1" alt="CodeChef Stats (if available)" />
 </p>
 
 ---
