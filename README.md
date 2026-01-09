@@ -54,6 +54,21 @@
 
 ---
 
+## ⚡ Coding Stats (Problems Solved & Rating)
+
+<p align="center">
+  <!-- Codeforces Stats Card -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dpn123&theme=dark" alt="Codeforces Stats" />
+  
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/dpn_123?theme=dark" alt="LeetCode Stats" />
+
+  <!-- CodeChef Stats Card -->
+  <img src="https://competitive-coding-api.herokuapp.com/api/codechef/devireddy2k3?theme=dark" alt="CodeChef Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
