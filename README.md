@@ -57,15 +57,15 @@
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=dark" alt="Praveen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=radical&count_private=true" alt="Praveen's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveen783&theme=dark" alt="Praveen's GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=praveen783&theme=radical" alt="Praveen's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=dark" alt="Praveen's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=radical" alt="Praveen's Top Languages" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 🌟 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=praveen783&icon=5&color=6" alt="Praveen's Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=praveen783&icon=0&color=0" alt="Praveen's Profile Views" />
 </p>
 
 ---
