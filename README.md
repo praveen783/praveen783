@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-👨‍💻 I’m **Praveen Devireddy**, a **Computer Science (CSE) student** and aspiring Software Engineer with a strong foundation in:
+👨‍💻 I’m **Praveen Devireddy**, a **Computer Science (CSE) student** and aspiring Software Engineer with strong foundations in:
 
 - **Data Structures & Algorithms**  
 - **Object-Oriented Programming**  
@@ -54,21 +54,34 @@
 
 ---
 
-## 🏆 Coding Platform Stats
+## 📊 GitHub Stats & Languages
 
-### 🔵 Codeforces
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dpn123&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=dark" alt="Praveen's GitHub Stats" />
 </p>
 
-### 🟡 LeetCode
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=dpn_123&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=praveen783&theme=dark" alt="Praveen's GitHub Streak Stats" />
 </p>
 
-### 🟤 CodeChef
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/devireddy2k3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=dark" alt="Praveen's Top Languages" />
+</p>
+
+---
+
+## 🏅 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praveen783&theme=onedark&no-frame=true&row=1&column=6" alt="Praveen's GitHub Trophies" />
+</p>
+
+---
+
+## 🌟 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=praveen783&icon=5&color=6" alt="Praveen's Profile Views" />
 </p>
 
 ---
@@ -110,38 +123,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=praveen783&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🏅 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveen783&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌟 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=praveen783&icon=5&color=6" />
-</p>
 
 ---
 
