@@ -33,6 +33,20 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
+### 📜 Certifications & Learning
+
+<p align="left">
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-Pre%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.netacad.com/">
+    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</p>
+
+- 🛡️ **Pre Security** — TryHackMe
+- 🌐 **Introduction to Cybersecurity** — Cisco Networking Academy
+
 ### 🏴‍☠️ TryHackMe Profile
 
 <p align="center">
