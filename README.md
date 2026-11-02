@@ -37,10 +37,9 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/devireddy2k3">
-    <img src="https://raw.githubusercontent.com/praveen783/praveen783/main/assets/thm_badge.svg" alt="TryHackMe Statistics" />
+    <img src="assets/thm_badge.svg" alt="TryHackMe Profile Statistics" />
   </a>
 </p>
-
 ---
 
 ### 📫 Connect With Me
