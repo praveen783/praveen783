@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,fastapi,mysql,git,github,linux,bash,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,javascript,,nodejs,git,github,linux,bash,docker,vscode" />
 </p>
 
 ### 🔐 Cybersecurity Tools
