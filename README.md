@@ -33,11 +33,13 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
+### 🏴‍☠️ TryHackMe Profile
 
-- **MoodMate** – AI-powered mental health chatbot.
-- **Agribazaar** – Online marketplace connecting farmers and buyers.
-- **AI-powered Sign Language Translator** – Exploring gesture-to-speech translation.
+<p align="center">
+  <a href="https://tryhackme.com/p/devireddy2k3">
+    <img src="https://raw.githubusercontent.com/praveen783/praveen783/main/assets/thm_badge.svg" alt="TryHackMe Statistics" />
+  </a>
+</p>
 
 ### 📊 GitHub Statistics
 
