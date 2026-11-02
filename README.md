@@ -14,7 +14,7 @@
 - 🔐 Currently learning Cybersecurity
 - 🐧 Practicing Linux and Networking
 - 🛡️ Interested in SOC Analysis and Ethical Hacking
-- 🐍 Comfortable with Python and Machine Learning
+- 🐍 Comfortable with Python
 - 🚀 Believe in learning by building and experimenting
 
 ### 🛠️ Languages and Tools
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
 ### 📜 Certifications & Learning
