@@ -41,17 +41,6 @@
   </a>
 </p>
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen783&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen783&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen783&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📫 Connect With Me
