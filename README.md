@@ -46,6 +46,14 @@
 - 🛡️ **Pre Security** — TryHackMe
 - 🌐 **Introduction to Cybersecurity** — Cisco Networking Academy
 
+### 📄 Resume
+
+<p align="left">
+  <a href="YOUR_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ### 🏴‍☠️ TryHackMe Profile
 
 <p align="center">
