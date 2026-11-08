@@ -35,16 +35,20 @@
 ### 📜 Certifications & Learning
 
 <p align="left">
-  <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-Pre%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://www.coursera.org/account/accomplishments/verify/IFI0PD3K3QDZ">
+    <img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
-  <a href="https://www.netacad.com/">
-    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <a href="https://tryhackme.com/certificate/THM-HUMZWC5BSY">
+    <img src="https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/df3c5cc2-0de1-4179-9da1-cc5f9754c6a1">
+    <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   </a>
 </p>
 
-- 🛡️ **Pre Security** — TryHackMe
-- 🌐 **Introduction to Cybersecurity** — Cisco Networking Academy
+- 🛡️ [**Foundations of Cybersecurity**](https://www.coursera.org/account/accomplishments/verify/IFI0PD3K3QDZ) — Google (Coursera)
+- 🔐 [**Pre Security**](https://tryhackme.com/certificate/THM-HUMZWC5BSY) — TryHackMe
+- 🌐 [**Introduction to Cybersecurity**](https://www.credly.com/earner/earned/badge/df3c5cc2-0de1-4179-9da1-cc5f9754c6a1) — Cisco Networking Academy
 
 ### 📄 Resume
 
