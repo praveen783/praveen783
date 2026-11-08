@@ -49,8 +49,8 @@
 ### 📄 Resume
 
 <p align="left">
-  <a href="YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1ulHLMHJ3Bj4jHduq2TlxmBkBhUrNAAzo/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume" />
   </a>
 </p>
 
@@ -61,6 +61,7 @@
     <img src="assets/thm_badge.svg" alt="TryHackMe Profile Statistics" />
   </a>
 </p>
+
 ---
 
 ### 📫 Connect With Me
